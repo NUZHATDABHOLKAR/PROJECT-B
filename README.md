@@ -24,7 +24,7 @@ i hope you understand how to used tailwind
 
 
 
-LINK
+## LINK
 [SHOPIFY CLONE](https://project2p.netlify.app/)
-TIME
+## TIME
 12 HOUR
