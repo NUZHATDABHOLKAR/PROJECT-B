@@ -27,4 +27,4 @@ i hope you understand how to used tailwind
 ## LINK
 [SHOPIFY CLONE](https://project2p.netlify.app/)
 ## TIME
-17 HOUR
+26 HOUR
